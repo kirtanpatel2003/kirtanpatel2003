@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Kirtan Patel</h1>
 <h3 align="center">I'm a passionate programmer who is always on the lookout for new things to learn and explore. My interests span across various aspects of programming, and I'm always eager to dive into new projects and challenges.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanpatel2003&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanpatel2003" /> </p>
 
 - 🔭 I’m currently working on **Priority Queue**
 
