@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **Priority Queue**
 
-- 🌱 I’m currently learning **Currently, I'm immersing myself in the world of C++ and Python, learning their intricacies and capabilities. I believe that continuous learning is the key to growth and success in the ever-evolving field of technology.**
+- 🌱 **Currently, I'm immersing myself in the world of C++ and Python, learning their intricacies and capabilities. I believe that continuous learning is the key to growth and success in the ever-evolving field of technology.**
 
 - 💬 Ask me about **Python, HTML,**
 
