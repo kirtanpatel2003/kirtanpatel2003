@@ -22,11 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanpatel2003&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanpatel2003" /> </p>
 
-- 🔭 I’m currently working on **Priority Queue**
+- 🔭 I’m currently working on **Linking**
 
 - 🌱 **Currently, I'm immersing myself in the world of C++ and Python, learning their intricacies and capabilities. I believe that continuous learning is the key to growth and success in the ever-evolving field of technology.**
 
-- 💬 Ask me about **Python, HTML,**
+- 💬 Ask me about **Python, HTML**
 
 - 📫 How to reach me **official.kirtan13@gmail.com**
 
