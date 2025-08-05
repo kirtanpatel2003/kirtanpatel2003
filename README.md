@@ -39,8 +39,6 @@ Software Engineering • AI/ML • Cybersecurity • Data Science
 ---
 
 ## 📊 GitHub Stats
-![Kirtan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirtanpatel2003&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanpatel2003&layout=compact&theme=radical)
 
 ---
