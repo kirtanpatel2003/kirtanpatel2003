@@ -1,44 +1,56 @@
-<!---
-👋 Hi there! I'm Kirtan Patel, also known as @kirtanpatel2003 on GitHub.
+# Hi 👋, I'm Kirtan Patel
 
-👀 I'm a passionate programmer who is always on the lookout for new things to learn and explore. My interests span across various aspects of programming, and I'm always eager to dive into new projects and challenges.
+I'm a Computer Science grad student passionate about building secure, intelligent, and scalable solutions. Whether it's full-stack apps, AI-powered systems, or networked security tools — I love bringing ideas to life with code.
 
-🌱 Currently, I'm immersing myself in the world of Python, learning its intricacies and capabilities. I believe that continuous learning is the key to growth and success in the ever-evolving field of technology.
+🔍 **Interests:**  
+Software Engineering • AI/ML • Cybersecurity • Data Science
 
-💞️ I'm open to collaborations and love working with others to create amazing things. If you have an interesting project or idea, I'd be more than happy to contribute and learn along the way.
+🚀 **Current Focus:**  
+- Designing scalable full-stack applications  
+- Exploring AI use-cases in cybersecurity  
+- Automating workflows with LLMs  
+- Building personal projects with MERN, Python, and PostgreSQL
 
-📫 If you wish to reach out to me, you can find me on LinkedIn at https://www.linkedin.com/in/kirtanpatel13/. Feel free to connect with me there!
+💬 **Ask me about:**  
+- Python, React, Node.js, PostgreSQL  
+- Building local AI tools  
+- Penetration testing and lab setups  
+- GitHub workflows and deployment
 
-You can also check out my personal website at https://kirtanpatel2003.github.io to learn more about my work and interests.
+📫 **How to reach me:**  
+[official.kirtan13@gmail.com](mailto:official.kirtan13@gmail.com)
 
-Looking forward to connecting and collaborating with you!
+---
 
-kirtanpatel2003/kirtanpatel2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1 align="center">Hi 👋, I'm Kirtan Patel</h1>
-<h3 align="center">I'm a passionate programmer who is always on the lookout for new things to learn and explore. My interests span across various aspects of programming, and I'm always eager to dive into new projects and challenges.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirtanpatel2003&label=Profile%20views&color=0e75b6&style=flat" alt="kirtanpatel2003" /> </p>
-
-- 🔭 I’m currently working on **Linking**
-
-- 🌱 **Currently, I'm immersing myself in the world of C++ and Python, learning their intricacies and capabilities. I believe that continuous learning is the key to growth and success in the ever-evolving field of technology.**
-
-- 💬 Ask me about **Python, HTML**
-
-- 📫 How to reach me **official.kirtan13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Languages & Tools
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kirtanpatel13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirtanpatel13/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kirtanpatel2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kirtanpatel2003/" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtanpatel2003&show_icons=true&locale=en&layout=compact" alt="kirtanpatel2003" /></p>
+## 📊 GitHub Stats
+![Kirtan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirtanpatel2003&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtanpatel2003&show_icons=true&locale=en" alt="kirtanpatel2003" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanpatel2003&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-Kirtan%20Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KirtanPatel13)](https://www.linkedin.com/in/KirtanPatel13/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox&logoColor=white&link=https://your-portfolio-link.com)](https://your-portfolio-link.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/kirtanpatel2003)
+
+---
+
+_“In the face of uncertainty, keep learning, keep building.”_
