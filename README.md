@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1522199828086-785f322ddcef](https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-et8zzfXBc5g)" alt="Chicago" width="100%">
+  <img src="./assets/faceway-presenting.jpg" alt="Kirtan presenting FaceWay" width="100%">
 </p>
+
+<p align="center"><i>Brainstorming session for the AI Facial Recognition project: FaceWAY</i></p>
 
 # Hi, I'm Kirtan Patel
 
