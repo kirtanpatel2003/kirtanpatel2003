@@ -1,4 +1,8 @@
-# Hi 📫, I'm Kirtan Patel
+<p align="center">
+  <img src="[https://images.unsplash.com/photo-1522199828086-785f322ddcef](https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-et8zzfXBc5g)" alt="Chicago" width="100%">
+</p>
+
+# Hi, I'm Kirtan Patel
 
 I'm a Computer Science grad student passionate about building secure, intelligent, and scalable solutions. Whether it's full-stack apps, AI-powered systems, or networked security tools — I love bringing ideas to life with code.
 
@@ -70,15 +74,7 @@ I'm a Computer Science grad student passionate about building secure, intelligen
 
 ---
 
-## 🌐 Live Threat Map
-<!-- Insert this tag where you want the widget to render -->
-<iframe width="900" height="467" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0"></iframe>
-
----
-
 ## 📊 GitHub Stats
-![Kirtan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirtanpatel2003&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirtanpatel2003&layout=compact&theme=radical)
 
 ---
