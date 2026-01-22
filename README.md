@@ -9,23 +9,27 @@
 I'm a Computer Science grad student passionate about building secure, intelligent, and scalable solutions. Whether it's full-stack apps, AI-powered systems, or networked security tools — I love bringing ideas to life with code.
 
 ## 🔍 Interests
-**Software Engineering** • **Cybersecurity** • **AI/ML** • **Data Science**
+**Software Engineering** • **Systems Security** • **Cybersecurity** • **Applied AI for Security**
 
 ---
 
 ## 🚀 Current Focus
-- Designing secure and scalable full-stack applications
-- Building GenAI tools for security and productivity
-- Automating workflows using LLMs + APIs
-- Setting up attack labs for pentesting and CVE-based exploits
+
+* Building **security-focused tooling** for vulnerability analysis, reporting, and automation
+* Practicing **real-world penetration testing workflows** (enumeration → exploitation → privilege escalation)
+* Developing **AI-assisted security utilities** using LLMs and RAG pipelines
+* Strengthening fundamentals in **network, web, and system-level security** through hands-on labs
 
 ---
 
 ## 💬 Ask Me About
-- Python, Node.js, React, PostgreSQL
-- AI tools, prompt engineering, local LLMs
-- Web security, Linux systems, Nmap, Wireshark
-- Deployments (Vercel, Render, GitHub Actions)
+
+* Backend and full-stack development (Node.js, PostgreSQL, APIs)
+* Secure software design and system architecture
+* Web and network security fundamentals (Nmap, Wireshark, Burp)
+* Python for automation, tooling, and backend services
+* Using AI to augment software and security workflows (LLMs, RAG)
+
 
 ---
 
@@ -45,13 +49,11 @@ I'm a Computer Science grad student passionate about building secure, intelligen
 <img src="https://img.shields.io/badge/Autopsy-blue?style=for-the-badge"/>
 </p>
 
-## 🧐 AI/ML Stack
+## 🧐 AI/Automation Stack
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ## 📊 Data Tools
@@ -59,8 +61,6 @@ I'm a Computer Science grad student passionate about building secure, intelligen
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
 ## 🌐 Full-Stack Development
@@ -69,9 +69,6 @@ I'm a Computer Science grad student passionate about building secure, intelligen
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 </p>
 
 ---
