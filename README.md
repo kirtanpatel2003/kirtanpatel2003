@@ -74,5 +74,5 @@ CS grad student at UIC (MS, Dec 2026) working at the intersection of AI security
 ## 📬 Reach Me
 
 **Email:** [official.kirtan13@gmail.com](mailto:official.kirtan13@gmail.com)
-**LinkedIn:** [linkedin.com/in/patelkirtan13](https://www.linkedin.com/in/patelkirtan13/)
+**LinkedIn:** [linkedin.com/in/patelkirtan13](https://www.linkedin.com/in/kirtanpatel2003/)
 **Portfolio:** [patelkirtan.com](https://patelkirtan.com)
